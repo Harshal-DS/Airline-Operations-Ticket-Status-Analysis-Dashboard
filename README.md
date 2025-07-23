@@ -1,2 +1,2 @@
 # PowerBi_Project
-This is my powerbi project of data analysis
+This is my powerbi project for data analysis
