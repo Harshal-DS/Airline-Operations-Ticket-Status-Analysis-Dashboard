@@ -14,7 +14,6 @@ Passenger_Information
 
 Objective:
 To analyze and visualize airline data for operational insights, passenger management, and ticket booking trends using Power BI.
-Tasks and Marks Distribution
 
 1. Data Preparation and Cleaning
 ● Extract and transform data in Power Query.
@@ -37,7 +36,7 @@ Tasks and Marks Distribution
 ○ Passenger count by airline.
 ○ Ticket booking statuses.
 ○ Flights by airline and destination.
-● Addinteractive features for:
+● Added interactive features for:
 ○ Destination and Airline.
 ○ Quickviews.
 ○ Airline-specific pages.
